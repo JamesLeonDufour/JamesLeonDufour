@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm James Léon-Dufour
 
-<!--
-**JamesLeonDufour/JamesLeonDufour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical Python tools and data workflows, with a focus on KoboToolbox and operational apps.
 
-Here are some ideas to get you started:
+## What I work on
+- Python applications for internal tools and automation
+- Streamlit interfaces for logs, analytics, and admin workflows
+- Data collection and field operations tooling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- [kobo-logs](https://github.com/JamesLeonDufour/kobo-logs) - Explore and export audit, project history, and access logs from KoboToolbox
+- [kobo-explore](https://github.com/JamesLeonDufour/kobo-explore) - Utilities to inspect and work with Kobo data
+- [kobo-upload-app](https://github.com/JamesLeonDufour/kobo-upload-app) - App for structured upload workflows
+
+## About me
+- Based in Brussels
+- Working with [KoboToolbox](https://kobotoolbox.org)
+- LinkedIn: [jamesleondufour](https://www.linkedin.com/in/jamesleondufour)
+
+## Current focus
+Building useful, maintainable tools that save teams time.
